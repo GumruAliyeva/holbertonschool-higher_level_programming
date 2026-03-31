@@ -1,5 +1,5 @@
-#!/usr/bin/python3
-str1 = "Welcome to "
+str1 = "Welcome to"
+spaceStr = " "
 str2 = "Holberton School!"
-# concatenate str1 and str2 using str1 and str2
-print(str1
+combinedStr = str1 + spaceStr + str2
+print(combinedStr)
