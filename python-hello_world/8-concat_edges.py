@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-# Concatenate first and last characters of str
-str = "Holberton"
-print(str[0] + str[-1])
+import keyword
+import sys
+print(keyword.kwlist[11] + "-" + keyword.kwlist[3] + " programming with Python")
