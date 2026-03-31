@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-import keyword
-import sys
-print(keyword.kwlist[4] + "-" + keyword.kwlist[7] + " " + "programming with " + sys.version[:6])
+str = "Holberton"
+# Print the first and last characters of str
+print(str[0] + str[-1])
